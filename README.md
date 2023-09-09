@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anouar El Maaroufi</h1>
 <h3 align="center">Computer science student at 1337 and an Aspiring IOS developer</h3>
 
-<img align="right" src="https://badge.mediaplus.ma/darkblue/ael-maar"/>
+<img align="right" width="400" src="https://badge.mediaplus.ma/darkblue/ael-maar"/>
 
 - 🔭 I’m currently working on **c++ modules at 1337 school**
 
