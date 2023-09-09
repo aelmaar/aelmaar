@@ -1,13 +1,13 @@
-<img src="https://badge.mediaplus.ma/darkblue/ael-maar" width="100%"/>
 <h1 align="center">Hi 👋, I'm Anouar El Maaroufi</h1>
 <h3 align="center">Computer science student at 1337 and an Aspiring IOS developer</h3>
+
+<img align="right" src="https://badge.mediaplus.ma/darkblue/ael-maar"/>
 
 - 🔭 I’m currently working on **c++ modules at 1337 school**
 
 - 🌱 I’m currently learning **OOP with c++**
 
 - 📫 How to reach me **anouarelmaaroufi@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
