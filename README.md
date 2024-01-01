@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Webserv**
 
-- 🌱 I’m currently learning **HTTP, TCP VS UDP, SOCKETS, WEBSERVER**
+- 🌱 I’m currently learning **HTTP, SOCKETS, WEBSERVER**
 
 - 📫 How to reach me **anouarelmaaroufi@gmail.com**
 
