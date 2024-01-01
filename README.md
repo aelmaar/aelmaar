@@ -3,9 +3,9 @@
 
 <img align="right" width="400" src="https://badge.mediaplus.ma/darkblue/ael-maar"/>
 
-- 🔭 I’m currently working on **C++ modules at 1337 school**
+- 🔭 I’m currently working on **Webserv**
 
-- 🌱 I’m currently learning **OOP with C++**
+- 🌱 I’m currently learning **HTTP, TCP VS UDP, SOCKETS, WEBSERVER**
 
 - 📫 How to reach me **anouarelmaaroufi@gmail.com**
 
