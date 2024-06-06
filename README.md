@@ -3,9 +3,9 @@
 
 <img align="right" width="400" src="https://badge.mediaplus.ma/darkblue/ael-maar"/>
 
-- 🔭 I’m currently working on **Webserv**
+- 🔭 I’m currently working on **FT_TRANSCENDENCE**
 
-- 🌱 I’m currently learning **HTTP, SOCKETS, WEBSERVER**
+- 🌱 I’m currently learning **Django, REST APIs, Web Sockets**
 
 - 📫 How to reach me **anouarelmaaroufi@gmail.com**
 
