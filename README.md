@@ -1,20 +1,62 @@
-<h1 align="center">Hi 👋, I'm Anouar El Maaroufi</h1>
-<h3 align="center">Computer science student at 1337 and an Aspiring IOS developer</h3>
+# 👋 Hi, I'm Anouar El Maaroufi  
 
-<img align="right" width="400" src="https://badge.mediaplus.ma/darkblue/ael-maar"/>
+🚀 **iOS Developer** | 📚 **Software Engineering Student** | 🍏 **Swift Enthusiast**  
+Passionate about building elegant and performant mobile experiences with a focus on clean architecture and best practices.  
 
-- 🔭 I’m currently working on **IOS Chat Application**
+---
 
-- 📫 How to reach me **anouarelmaaroufi@gmail.com**
+## 🛠️ **Tech Stack**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ael_maar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ael_maar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aelmaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aelmaar" height="30" width="40" /></a>
-<a href="https://instagram.com/elmaaroufi_anouar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elmaaroufi_anouar" height="30" width="40" /></a>
-</p>
+### **iOS Development**
+<div align="left">
+  <!-- iOS Development -->
+  <img src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SwiftUI-007ACC?logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/-UIKit-2396F3?logo=apple&logoColor=white" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+### **Backend & DevOps** 
+<div align"left">
+  <!-- Backend & DevOps -->
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aelmaar&show_icons=true&locale=en" alt="aelmaar" /></p>
+### **Tools** 
+<div align="left">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
+</div>
+
+## 🔥 **Current Project**
+SwiftUI Chat Application
+
+## 💡 **Professional Approach**  
+- Advocate for **clean, maintainable code** and SOLID principles  
+- Strong believer in **test-driven development (TDD)** where applicable
+- Enjoy bridging **frontend and backend** development challenges
+
+## 📊 **GitHub Stats**  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aelmaar&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelmaar&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+## 📫 **Connect With Me**  
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/aelmaar/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/elmaaroufi_anouar/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:anouarelmaaroufi@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</div>
