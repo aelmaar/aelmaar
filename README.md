@@ -32,9 +32,6 @@ Passionate about building elegant and performant mobile experiences with a focus
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
 </div>
 
-## 🔥 **Current Project**
-SwiftUI Chat Application
-
 ## 💡 **Professional Approach**  
 - Advocate for **clean, maintainable code** and SOLID principles  
 - Strong believer in **test-driven development (TDD)** where applicable
