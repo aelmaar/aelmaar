@@ -1,50 +1,74 @@
 # 👋 Hi, I'm Anouar El Maaroufi  
 
-🚀 **iOS Developer** | 📚 **Software Engineering Student** | 🍏 **Swift Enthusiast**  
-Passionate about building elegant and performant mobile experiences with a focus on clean architecture and best practices.  
+🚀 **Mobile Engineer (Kotlin Multiplatform & iOS)**  
+📱 Building cross-platform production applications  
+🌍 Based in Morocco  
+
+I design and build scalable mobile applications using **Kotlin Multiplatform** and **Compose Multiplatform**, sharing business logic and UI across platforms while implementing native solutions when platform capabilities require it.
+
+Currently contributing to a multi-application ecosystem including **Customer**, **Driver**, and **Partner** apps powering real-world services.
 
 ---
 
-## 🛠️ **Tech Stack**  
+## 🧩 Production Experience
 
-### **iOS Development**
+### Mobile Engineer — Kotlin Multiplatform
+Working on a production-grade multi-app platform used by different user roles in real-world operations.
+
+**Key Contributions**
+- Built shared UI and business logic using Compose Multiplatform  
+- Implemented platform-specific services for Android, iOS, and Desktop
+- Contributed to real-time order lifecycle features  
+- Helped evolve a shared mobile architecture across multiple applications  
+
+**Engineering Focus**
+Cross-platform architecture • Platform abstraction • Scalable mobile systems
+
+---
+
+## 🎯 Technical Focus
+
+- Kotlin Multiplatform architecture  
+- Compose Multiplatform UI sharing  
+- Platform-specific service implementation
+- Clean architecture & maintainable codebases
+- Firebase & Google SDK integration
+
+---
+
+## 🛠️ Tech Stack  
+
+### Cross-Platform Mobile
 <div align="left">
-  <!-- iOS Development -->
+  <img src="https://img.shields.io/badge/-Kotlin_Multiplatform-7F52FF?logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Compose_Multiplatform-4285F4?logo=jetpackcompose&logoColor=white" />
+</div>
+
+### iOS Development
+<div align="left">
   <img src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SwiftUI-007ACC?logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/-UIKit-2396F3?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SwiftUI-007ACC?logo=swift&logoColor=white" />
 </div>
 
-### **Backend & DevOps** 
-<div align"left">
-  <!-- Backend & DevOps -->
-  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
-</div>
-
-### **Tools** 
+### Platform Services
 <div align="left">
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Google_Maps-4285F4?logo=googlemaps&logoColor=white" />
 </div>
 
-## 💡 **Professional Approach**  
-- Advocate for **clean, maintainable code** and SOLID principles  
-- Strong believer in **test-driven development (TDD)** where applicable
-- Enjoy bridging **frontend and backend** development challenges
+---
 
-## 📊 **GitHub Stats**  
+## 💡 Engineering Philosophy
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aelmaar&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelmaar&layout=compact&theme=radical&hide_border=true" />
-</div>
+- Share logic where possible, go native where necessary  
+- Build reusable cross-platform abstractions  
+- Focus on scalability, maintainability, and clarity  
+- Think in systems, not screens  
 
-## 📫 **Connect With Me**  
+---
+
+## 📫 Connect With Me  
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aelmaar/">
