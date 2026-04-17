@@ -1,83 +1,60 @@
-# 👋 Hi, I'm Anouar El Maaroufi  
+# Hi, I'm Anouar 👋
 
-🚀 **Mobile Engineer (Kotlin Multiplatform & iOS)**  
-📱 Building cross-platform production applications  
-🌍 Based in Morocco  
-
-I design and build scalable mobile applications using **Kotlin Multiplatform** and **Compose Multiplatform**, sharing business logic and UI across platforms while implementing native solutions when platform capabilities require it.
-
-Currently contributing to a multi-application ecosystem including **Customer**, **Driver**, and **Partner** apps powering real-world services.
+**Mobile Engineer** focused on **Kotlin Multiplatform** and **Compose Multiplatform**  
+Building cross-platform apps that run on Android, iOS, and Desktop — from a single codebase  
+📍 Morocco
 
 ---
 
-## 🧩 Production Experience
+## What I've shipped
 
-### Mobile Engineer — Kotlin Multiplatform
-Working on a production-grade multi-app platform used by different user roles in real-world operations.
+### Done · Moroccan Delivery Startup
+*May 2025 – April 2026*
 
-**Key Contributions**
-- Built shared UI and business logic using Compose Multiplatform  
-- Implemented platform-specific services for Android, iOS, and Desktop
-- Contributed to real-time order lifecycle features  
-- Helped evolve a shared mobile architecture across multiple applications  
+Worked across a multi-app ecosystem (Customer, Driver, Partner) serving **100K+ users** on Android and iOS.
 
-**Engineering Focus**
-Cross-platform architecture • Platform abstraction • Scalable mobile systems
+**Highlight:** Solo-led the KMP migration of the Partner app — from Android-only to a unified architecture across **Android, iOS, and Windows Desktop**
+
+- Clean Architecture + MVI + Koin DI
+- Compose Multiplatform UI across all targets
+- Windows Desktop packaging (WiX Toolset, code signing)
+- Firebase integration across platforms
+- Published releases to App Store & Play Store
 
 ---
 
 ## 🎯 Technical Focus
 
-- Kotlin Multiplatform architecture  
-- Compose Multiplatform UI sharing  
-- Platform-specific service implementation
-- Clean architecture & maintainable codebases
-- Firebase & Google SDK integration
-
----
-
-## 🛠️ Tech Stack  
-
-### Cross-Platform Mobile
-<div align="left">
-  <img src="https://img.shields.io/badge/-Kotlin_Multiplatform-7F52FF?logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Compose_Multiplatform-4285F4?logo=jetpackcompose&logoColor=white" />
-</div>
-
-### iOS Development
-<div align="left">
-  <img src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/-UIKit-2396F3?logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SwiftUI-007ACC?logo=swift&logoColor=white" />
-</div>
-
-### Platform Services
-<div align="left">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Google_Maps-4285F4?logo=googlemaps&logoColor=white" />
-</div>
+- Kotlin Multiplatform architecture & migration
+- Compose Multiplatform UI sharing
+- Platform-specific service implementation (Android · iOS · Desktop)
+- Clean Architecture & MVI patterns
+- Firebase SDK integration
 
 ---
 
 ## 💡 Engineering Philosophy
 
-- Share logic where possible, go native where necessary  
-- Build reusable cross-platform abstractions  
-- Focus on scalability, maintainability, and clarity  
-- Think in systems, not screens  
+- Share logic where possible, go native where necessary
+- Build reusable cross-platform abstractions
+- Own the full delivery — architecture, implementation, and shipping
+- Think in systems, not screens
 
 ---
 
-## 📫 Connect With Me  
+## Stack
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/aelmaar/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/elmaaroufi_anouar/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:anouarelmaaroufi@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</div>
+![KMP](https://img.shields.io/badge/-Kotlin_Multiplatform-7F52FF?logo=kotlin&logoColor=white)
+![Compose MP](https://img.shields.io/badge/-Compose_Multiplatform-4285F4?logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Koin](https://img.shields.io/badge/-Koin-7F52FF?logo=kotlin&logoColor=white)
+
+---
+
+## 📫 Find me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aelmaar/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/elmaaroufi_anouar/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:anouarelmaaroufi@gmail.com)
